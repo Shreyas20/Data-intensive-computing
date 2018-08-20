@@ -1,0 +1,1 @@
+var words =[{text: 'abca', size: 24},{text: 'bcde', size: 22},{text: 'bacha', size: 22},{text: 'shreyas', size: 34},{text: 'abhishek', size: 23} ];

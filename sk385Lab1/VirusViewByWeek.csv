@@ -1,0 +1,148 @@
+Year, Week, Virus,0-4 yr,5-24 yr,25-64 yr,65+ yr
+2017,40,A (H3),7,21,40,43
+2017,41,A (H3),6,22,54,44
+2017,42,A (H3),12,40,49,51
+2017,43,A (H3),17,33,45,51
+2017,44,A (H3),20,62,64,71
+2017,45,A (H3),29,86,78,85
+2017,46,A (H3),33,93,122,122
+2017,47,A (H3),45,97,166,149
+2017,48,A (H3),59,161,219,256
+2017,49,A (H3),81,255,277,302
+2017,50,A (H3),106,333,379,415
+2017,51,A (H3),135,419,656,813
+2017,52,A (H3),181,312,731,1084
+2018,1,A (H3),164,310,850,1236
+2018,2,A (H3),196,455,812,1145
+2018,3,A (H3),176,460,690,1003
+2018,4,A (H3),183,555,741,911
+2018,5,A (H3),158,553,648,765
+2018,6,A (H3),112,434,507,542
+2018,7,A (H3),58,280,286,294
+2018,8,A (H3),30,109,124,159
+2017,40,A (H1N1)pdm09,2,3,6,2
+2017,41,A (H1N1)pdm09,4,3,5,0
+2017,42,A (H1N1)pdm09,4,4,3,1
+2017,43,A (H1N1)pdm09,7,12,5,0
+2017,44,A (H1N1)pdm09,5,10,2,2
+2017,45,A (H1N1)pdm09,3,6,10,0
+2017,46,A (H1N1)pdm09,12,27,10,3
+2017,47,A (H1N1)pdm09,10,8,17,1
+2017,48,A (H1N1)pdm09,5,13,21,20
+2017,49,A (H1N1)pdm09,9,19,26,9
+2017,50,A (H1N1)pdm09,18,43,44,13
+2017,51,A (H1N1)pdm09,22,45,115,32
+2017,52,A (H1N1)pdm09,23,55,120,47
+2018,1,A (H1N1)pdm09,42,39,133,56
+2018,2,A (H1N1)pdm09,36,71,157,60
+2018,3,A (H1N1)pdm09,58,73,148,47
+2018,4,A (H1N1)pdm09,61,139,188,68
+2018,5,A (H1N1)pdm09,68,151,163,60
+2018,6,A (H1N1)pdm09,58,125,156,44
+2018,7,A (H1N1)pdm09,39,84,125,37
+2018,8,A (H1N1)pdm09,14,21,39,13
+2017,40,A (Subtyping not Performed),0,1,1,1
+2017,41,A (Subtyping not Performed),0,0,1,0
+2017,42,A (Subtyping not Performed),0,0,0,0
+2017,43,A (Subtyping not Performed),0,1,2,1
+2017,44,A (Subtyping not Performed),0,0,2,0
+2017,45,A (Subtyping not Performed),0,0,1,0
+2017,46,A (Subtyping not Performed),0,1,1,0
+2017,47,A (Subtyping not Performed),0,0,0,0
+2017,48,A (Subtyping not Performed),1,0,5,1
+2017,49,A (Subtyping not Performed),0,0,0,0
+2017,50,A (Subtyping not Performed),0,2,6,2
+2017,51,A (Subtyping not Performed),1,2,8,3
+2017,52,A (Subtyping not Performed),1,3,4,11
+2018,1,A (Subtyping not Performed),0,0,10,8
+2018,2,A (Subtyping not Performed),1,4,12,12
+2018,3,A (Subtyping not Performed),0,2,10,8
+2018,4,A (Subtyping not Performed),0,4,7,15
+2018,5,A (Subtyping not Performed),1,11,7,13
+2018,6,A (Subtyping not Performed),1,4,8,10
+2018,7,A (Subtyping not Performed),0,2,5,6
+2018,8,A (Subtyping not Performed),0,5,2,3
+2017,40,B (Victoria Lineage),0,0,0,0
+2017,41,B (Victoria Lineage),0,1,1,0
+2017,42,B (Victoria Lineage),0,0,0,0
+2017,43,B (Victoria Lineage),0,0,0,0
+2017,44,B (Victoria Lineage),0,2,0,0
+2017,45,B (Victoria Lineage),0,1,2,0
+2017,46,B (Victoria Lineage),0,3,1,1
+2017,47,B (Victoria Lineage),1,1,3,0
+2017,48,B (Victoria Lineage),0,6,1,0
+2017,49,B (Victoria Lineage),3,9,0,3
+2017,50,B (Victoria Lineage),2,20,6,1
+2017,51,B (Victoria Lineage),5,23,9,0
+2017,52,B (Victoria Lineage),7,11,7,2
+2018,1,B (Victoria Lineage),10,13,8,7
+2018,2,B (Victoria Lineage),6,17,8,6
+2018,3,B (Victoria Lineage),5,16,9,2
+2018,4,B (Victoria Lineage),10,25,11,2
+2018,5,B (Victoria Lineage),11,38,8,1
+2018,6,B (Victoria Lineage),15,30,12,6
+2018,7,B (Victoria Lineage),9,38,8,2
+2018,8,B (Victoria Lineage),7,20,7,2
+2017,40,B (Yamagata Lineage),0,3,7,6
+2017,41,B (Yamagata Lineage),1,0,8,2
+2017,42,B (Yamagata Lineage),1,2,3,4
+2017,43,B (Yamagata Lineage),0,5,7,6
+2017,44,B (Yamagata Lineage),3,9,8,11
+2017,45,B (Yamagata Lineage),1,8,14,6
+2017,46,B (Yamagata Lineage),2,25,17,15
+2017,47,B (Yamagata Lineage),4,18,15,23
+2017,48,B (Yamagata Lineage),4,22,27,37
+2017,49,B (Yamagata Lineage),3,32,32,25
+2017,50,B (Yamagata Lineage),9,62,56,27
+2017,51,B (Yamagata Lineage),16,61,73,55
+2017,52,B (Yamagata Lineage),18,61,113,108
+2018,1,B (Yamagata Lineage),26,49,151,150
+2018,2,B (Yamagata Lineage),12,99,149,136
+2018,3,B (Yamagata Lineage),30,98,166,138
+2018,4,B (Yamagata Lineage),35,184,173,180
+2018,5,B (Yamagata Lineage),39,238,187,147
+2018,6,B (Yamagata Lineage),28,246,202,163
+2018,7,B (Yamagata Lineage),26,173,162,141
+2018,8,B (Yamagata Lineage),16,109,95,96
+2017,40,B (Lineage Unspecified),0,0,1,0
+2017,41,B (Lineage Unspecified),2,0,1,0
+2017,42,B (Lineage Unspecified),1,0,0,0
+2017,43,B (Lineage Unspecified),0,2,1,2
+2017,44,B (Lineage Unspecified),0,8,1,2
+2017,45,B (Lineage Unspecified),0,5,1,4
+2017,46,B (Lineage Unspecified),2,11,6,5
+2017,47,B (Lineage Unspecified),2,3,3,1
+2017,48,B (Lineage Unspecified),0,5,7,12
+2017,49,B (Lineage Unspecified),2,14,10,3
+2017,50,B (Lineage Unspecified),0,17,8,7
+2017,51,B (Lineage Unspecified),5,16,23,19
+2017,52,B (Lineage Unspecified),2,16,16,25
+2018,1,B (Lineage Unspecified),2,12,32,39
+2018,2,B (Lineage Unspecified),5,51,60,30
+2018,3,B (Lineage Unspecified),6,52,47,40
+2018,4,B (Lineage Unspecified),11,84,71,34
+2018,5,B (Lineage Unspecified),16,150,76,35
+2018,6,B (Lineage Unspecified),22,121,89,29
+2018,7,B (Lineage Unspecified),10,77,71,19
+2018,8,B (Lineage Unspecified),4,54,43,24
+2017,40,H3N2v,0,0,1,0
+2017,41,H3N2v,0,0,0,0
+2017,42,H3N2v,0,0,0,0
+2017,43,H3N2v,0,0,0,0
+2017,44,H3N2v,0,0,0,0
+2017,45,H3N2v,0,0,0,0
+2017,46,H3N2v,0,0,0,0
+2017,47,H3N2v,0,0,0,0
+2017,48,H3N2v,0,1,0,0
+2017,49,H3N2v,0,0,0,0
+2017,50,H3N2v,0,0,0,0
+2017,51,H3N2v,0,0,0,0
+2017,52,H3N2v,0,0,0,0
+2018,1,H3N2v,0,0,0,0
+2018,2,H3N2v,0,0,0,0
+2018,3,H3N2v,0,0,0,0
+2018,4,H3N2v,0,0,0,0
+2018,5,H3N2v,0,0,0,0
+2018,6,H3N2v,0,0,0,0
+2018,7,H3N2v,0,0,0,0
+2018,8,H3N2v,0,0,0,0

@@ -1,0 +1,10 @@
+var words = [  {text: 'said', size: 249},
+  {text: 'new', size: 91},
+  {text: 'one', size: 91},
+  {text: 'mr', size: 77},
+  {text: 'people', size: 74},
+  {text: 'shooting', size: 73},
+  {text: 'police', size: 73},
+  {text: 'gun', size: 70},
+  {text: 'would', size: 69},
+  {text: 'two', size: 66} ];

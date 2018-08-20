@@ -1,0 +1,11 @@
+wordpair	count
+"[""co"", ""https""]"	1803
+"[""co"", ""shooting""]"	1234
+"[""https"", ""shooting""]"	1176
+"[""b"", ""shooting""]"	910
+"[""potus"", ""https""]"	405
+"[""potus"", ""co""]"	405
+"[""potus"", ""backfiretrump""]"	403
+"[""backfiretrump"", ""co""]"	403
+"[""backfiretrump"", ""https""]"	403
+"[""b"", ""co""]"	368

@@ -1,0 +1,21 @@
+"*Beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update, FluView.  Data presented from public health laboratories include the weekly total number of specimens tested, the number of positive influenza tests, and the number by influenza virus type, subtype, and influenza B lineage."
+REGION TYPE,REGION,YEAR,WEEK,TOTAL SPECIMENS,A (2009 H1N1),A (H3),A (Subtyping not Performed),B,BVic,BYam,H3N2v
+National,X,2017,40,992,13,123,3,5,0,16,1
+National,X,2017,41,988,14,143,1,6,4,11,0
+National,X,2017,42,1179,14,173,0,2,1,11,0
+National,X,2017,43,1335,26,175,4,8,1,20,0
+National,X,2017,44,1489,23,246,2,16,3,34,0
+National,X,2017,45,1518,28,314,2,12,4,30,0
+National,X,2017,46,1824,56,402,2,33,5,61,0
+National,X,2017,47,1566,41,485,0,11,5,60,0
+National,X,2017,48,2253,61,752,10,27,8,95,1
+National,X,2017,49,2564,70,972,9,38,15,91,0
+National,X,2017,50,3239,127,1365,18,42,35,161,0
+National,X,2017,51,4478,222,2254,57,96,38,220,0
+National,X,2017,52,4983,266,2699,48,118,30,321,0
+National,X,2018,1,5889,297,3048,38,187,39,398,0
+National,X,2018,2,6272,350,3076,70,194,39,421,0
+National,X,2018,3,5743,367,2519,49,190,37,454,0
+National,X,2018,4,6103,478,2436,31,243,50,573,0
+National,X,2018,5,5020,364,1723,38,281,59,491,0
+National,X,2018,6,2937,201,870,38,201,26,340,0
