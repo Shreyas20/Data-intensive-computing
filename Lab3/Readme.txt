@@ -13,4 +13,4 @@ The code file contains:
 
 Sparkdata contains collected articles which has their filenames as their topic
 
-Validation set contains articles which dont have any labels and are used for the classification testing purpose.
+ValSet contains articles which dont have any labels and are used for the classification testing purpose.
