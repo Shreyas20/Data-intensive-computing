@@ -10,3 +10,7 @@ Validation set is stored in Valset directory.
 The code file contains:
 1) Article extraction using NTTimes API and beautifulsoup library in python
 2) Article classification in PySpark using MlLib
+
+Sparkdata contains collected articles which has their filenames as their topic
+
+Validation set contains articles which dont have any labels and are used for the classification testing purpose.
